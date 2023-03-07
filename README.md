@@ -2,6 +2,8 @@
 
 A simple SPA CourseGoals app for adding and deleteing goals.
 
+![goals](/CourseGoal.png)
+
 ## Built with
 
 - ReactJS
